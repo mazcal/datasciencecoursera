@@ -3,3 +3,4 @@ This file expects the data set from https://d396qusza40orc.cloudfront.net/getdat
 The content of the ZIP file should be extracted to the working directory.
 
 The code will output a "tidy.txt" file when it's done.
+codebook.md includes all information regarding data processed and the manner of processing.
